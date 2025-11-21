@@ -24,3 +24,5 @@ Long-Term (Next 1–2 Years)
 	•	Build deeper expertise in LLM fine-tuning, prompt evaluation frameworks, and model alignment techniques.
 	•	Strengthen knowledge in end-to-end MLOps pipelines, CI/CD, and production-level AI deployment.
 	•	Expand understanding of system architecture to move toward AI Engineer / ML Engineer roles.
+In the next 2–3 years, I aim to grow into a Generative AI Engineer / Prompt Engineering Specialist capable of designing and deploying end-to-end AI solutions at scale.
+I plan to deepen my expertise in AWS, LLM frameworks, RAG architectures, and MLOps to independently contribute to high-impact AI projects and eventually mentor junior members in the GenAI space.
