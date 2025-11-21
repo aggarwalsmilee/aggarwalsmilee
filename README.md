@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Immediate (Next 3–6 Months)
+	•	Strengthen depth in AWS Architecture, especially Lambda, Step Functions, and serverless workflows.
+	•	Advance Snowflake skills to handle larger-scale analytics tasks independently.
+	•	Improve efficiency in writing scalable Python scripts for data automation.
+
+Long-Term (Next 1–2 Years)
+	•	Build deeper expertise in LLM fine-tuning, prompt evaluation frameworks, and model alignment techniques.
+	•	Strengthen knowledge in end-to-end MLOps pipelines, CI/CD, and production-level AI deployment.
+	•	Expand understanding of system architecture to move toward AI Engineer / ML Engineer roles.
