@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+	•	Successfully delivered three high-impact Generative AI POCs (VizLLM, Tokio Marine, and Conversational AI), demonstrating strong ownership in prompt engineering, metadata processing, and LLM-based automation.
+	•	Built SQL-generation AI agents using LLMs and vector databases, improving retrieval accuracy and NLP-query handling workflows.
+	•	Designed optimized prompts and RAG pipelines for document extraction, improving processing speed and reducing manual effort across POCs.
+	•	Selected for the GE Vernova – CSA & HDNU client project, where I led prompt engineering, contract ingestion, and data automation tasks.
+	•	Developed SageMaker scripts to fetch, analyze, and report DynamoDB data (using table and index scans), improving data visibility and enabling client decision-making.
+	•	Automated ingestion of JSON-based CSA configurations using AWS DynamoDB, S3, and SageMaker, improving workflow stability and deployment efficiency.
+	•	Utilized AWS CloudWatch to debug LLM integration errors and backend failures, helping stabilize the CSA/HDNU workflows.
+	•	Briefly contributed to a Snowflake-based conversational AI analytics POC, gaining hands-on exposure to cloud data workloads.
 
 Immediate (Next 3–6 Months)
 	•	Strengthen depth in AWS Architecture, especially Lambda, Step Functions, and serverless workflows.
